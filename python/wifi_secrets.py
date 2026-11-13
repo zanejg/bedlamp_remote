@@ -1,0 +1,6 @@
+# ssid = 'clacks'
+# password = 'Quardle Wardle Oodle'
+ssid = 'TP-LINK_IoT'
+password = 'IoT3Bloodybuzzwords'
+# ssid = 'Ceratopsian'
+# password = 'Yin Tan Tethra'
